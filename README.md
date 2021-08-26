@@ -17,10 +17,13 @@ Smash Food  is the Microgame which i have Built so far with the help  of the Uni
 
 # The Project gave me the understanding of the following -
 
--> How to use the UI of the unity  
--> How to use the Trail rendereras a beginner .
--> How to Instantiate the gameObject .
--> Core understanding of the Enumerators .
+-> How to use the UI of the unity 
+
+-> How to use the Trail rendereras a beginner
+
+-> How to Instantiate the gameObject
+
+-> Core understanding of the Enumerators
 
 
 
