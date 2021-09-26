@@ -23,7 +23,7 @@ Smash Food  is the Microgame which i have Built  with the help  of the Unitylear
 
 -> How to Instantiate the gameObject.
 
--> Core understanding of the Enumerators in Game Development .
+-> Core understanding of the Coroutine in Game Development .
 
 
 
