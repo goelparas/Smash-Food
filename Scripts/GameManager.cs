@@ -152,4 +152,9 @@ public class GameManager : MonoBehaviour
         Application.Quit();
 
     }
+     public void OnApplicationRetry()
+    {
+        Application.Retry();
+
+    }
 }
